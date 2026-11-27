@@ -19,4 +19,4 @@ For an event storymaker, I built a [portfolio website](https://bycarlalima.pages
 
 ## Currently learning
 
-AI engineering: LLMs, RAG, evals, agents and MCP.
+AI engineering: LLMs, RAG, evals, agents and MCP, built in public in [devdocs-ai](https://github.com/eduardowav/devdocs-ai) and [agenda-ai](https://github.com/eduardowav/agenda-ai).
