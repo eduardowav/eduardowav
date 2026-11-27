@@ -8,7 +8,7 @@ For an event storymaker, I built a [portfolio website](https://bycarlalima.pages
 
 ## Projects
 
-[TrocaTCG](https://trocatcg.com) is a PWA that automatically matches Pokémon TCG collectors for card trades, including three-way trades (A→B→C→A) found through graph cycle detection in Python. *(in development)*
+[TrocaTCG](https://trocatcg.com) is a PWA that automatically matches Pokémon TCG collectors for card trades, including three-way trades (A→B→C→A) found through graph cycle detection in Python. *(live, all 7 roadmap phases shipped)*
 
 ## Stack
 
